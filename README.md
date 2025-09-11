@@ -43,3 +43,5 @@ HTML Dl Tag. W3 Schools, https://www.w3schools.com/tags/tag_dl.asp. Accessed 9 S
 
 W3 schools. HTML Quotation Elements. https://www.w3schools.com/html/html_quotation_elements.asp. Accessed 9 Sep. 2025.
 
+w3Schools. HTML Meta Tag. https://www.w3schools.com/tags/tag_meta.asp. Accessed 10 Sep. 2025.
+
